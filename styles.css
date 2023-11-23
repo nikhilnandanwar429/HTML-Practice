@@ -1,2 +1,36 @@
-git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
+*{
+  
+}
+
+ul{
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center
+
+}
+
+img{
+  height: 20%;
+  width: 20%;
+}
+
+.upperNavBar{
+  background-color: white;
+  height: 1%;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: space-between;
+  justify-content: center;
+  border-radius: 20px;
+
+}
+
+body{
+  background-color: #8EC5FC;
+  background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+  display: flex;
+  align-items: center;
+
+}
